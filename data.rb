@@ -1,3 +1,6 @@
+# There is a compile error in this. Copy it and run it in IRB.
+# We are looking for an array with hashes in it
+
 data
   {
     "John" => {
